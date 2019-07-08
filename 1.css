@@ -1,0 +1,47 @@
+html,body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+*
+{
+    box-sizing: border-box;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
+.txt
+{
+    font-size: 20px;
+    color: black;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.2);
+}
+.conatiner3
+{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;  
+}
+.brand-logo
+{
+    position: absolute;
+    left: 4%;
+    width: 15%;
+}
+.btn,.validate,.abc
+{
+    font-size: 25px;
+    font-weight: bolder; 
+    
+    font-family: 'Comic Sans MS', sans-serif;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.7);
+}
+.raj
+{
+    font-family: 'Comic Sans MS', sans-serif;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.1);
+}
